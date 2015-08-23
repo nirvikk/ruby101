@@ -1,2 +1,2 @@
 # ruby101
-ruby:beginner
+this is very basic ruby codes for beginners.
